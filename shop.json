@@ -1,0 +1,40 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "upgrade_cost": 6,
+            "retinue_cap": 3,
+            "probabilities": [100]
+        },
+        {
+            "level": 2,
+            "upgrade_cost": 7,
+            "retinue_cap": 4,
+            "probabilities": [60, 40]
+        },
+        {
+            "level": 3,
+            "upgrade_cost": 10,
+            "retinue_cap": 4,
+            "probabilities": [30, 40, 30]
+        },
+        {
+            "level": 4,
+            "upgrade_cost": 11,
+            "retinue_cap": 5,
+            "probabilities": [10, 25, 40, 25]
+        },
+        {
+            "level": 5,
+            "upgrade_cost": 11,
+            "retinue_cap": 5,
+            "probabilities": [5, 10, 25, 40, 20]
+        },
+        {
+            "level": 6,
+            "upgrade_cost": 0,
+            "retinue_cap": 6,
+            "probabilities": [5, 5, 15, 40, 25, 10]
+        }
+    ]
+}

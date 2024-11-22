@@ -1,0 +1,11 @@
+{
+    "max_game_cap": 10,
+    "min_players": 2,
+    "max_round": 30,
+    "max_player_retinue": 7,
+    "max_player_card": 10,
+    "max_player_gold": 10,
+    "max_shop_level": 6,
+    "game_round_base_duration": 30,
+    "game_round_additional_duration": 10
+}

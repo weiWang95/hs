@@ -1,0 +1,203 @@
+[
+    {
+        "id": 101,
+        "name": "Card 101",
+        "grade": 0,
+        "level": 1,
+        "hp": 2,
+        "attack": 1,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 101,
+                    "name": "Buff 101: 亡语：/+1",
+                    "event": 8,
+                    "type": 1,
+                    "target": 6,
+                    "add_attack": 0,
+                    "add_hp": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Card 102",
+        "grade": 0,
+        "level": 1,
+        "hp": 1,
+        "attack": 2,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 102,
+                    "name": "Buff 102：战吼：+1/+1",
+                    "event": 1,
+                    "type": 1,
+                    "target": 3,
+                    "add_attack": 1,
+                    "add_hp": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Card 103",
+        "grade": 0,
+        "level": 1,
+        "hp": 1,
+        "attack": 1,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 103,
+                    "name": "Buff 103: 触发战吼时+1/+1",
+                    "event": 2,
+                    "type": 1,
+                    "target": 1,
+                    "add_attack": 1,
+                    "add_hp": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "name": "Card 201",
+        "grade": 0,
+        "level": 2,
+        "hp": 4,
+        "attack": 2
+    },
+    {
+        "id": 202,
+        "name": "Card 202",
+        "grade": 0,
+        "level": 2,
+        "hp": 4,
+        "attack": 1,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 202,
+                    "name": "Buff 202: 亡语：召唤1/2",
+                    "event": 8,
+                    "type": 5,
+                    "card_id": 101
+                }
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Card 203",
+        "grade": 0,
+        "level": 2,
+        "hp": 2,
+        "attack": 2,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 203,
+                    "name": "Buff 203: 亡语：+1/+1",
+                    "event": 8,
+                    "type": 1,
+                    "target": 6,
+                    "add_attack": 1,
+                    "add_hp": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Card 204",
+        "grade": 0,
+        "level": 2,
+        "hp": 1,
+        "attack": 3,
+        "buffs": [
+            {
+                "times": 1,
+                "buff": {
+                    "id": 204,
+                    "name": "Buff 204: 亡语：-2",
+                    "event": 8,
+                    "type": 2,
+                    "target": 7,
+                    "damage": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": 301,
+        "name": "Card 301",
+        "grade": 0,
+        "level": 3,
+        "hp": 6,
+        "attack": 4
+    },
+    {
+        "id": 302,
+        "name": "Card 302",
+        "grade": 0,
+        "level": 3,
+        "hp": 3,
+        "attack": 6
+    },
+    {
+        "id": 401,
+        "name": "Card 401",
+        "grade": 0,
+        "level": 4,
+        "hp": 8,
+        "attack": 6
+    },
+    {
+        "id": 402,
+        "name": "Card 402",
+        "grade": 0,
+        "level": 4,
+        "hp": 4,
+        "attack": 8
+    },
+    {
+        "id": 501,
+        "name": "Card 501",
+        "grade": 0,
+        "level": 5,
+        "hp": 10,
+        "attack": 8
+    },
+    {
+        "id": 502,
+        "name": "Card 502",
+        "grade": 0,
+        "level": 5,
+        "hp": 5,
+        "attack": 10
+    },
+    {
+        "id": 601,
+        "name": "Card 601",
+        "grade": 0,
+        "level": 6,
+        "hp": 12,
+        "attack": 10
+    },
+    {
+        "id": 602,
+        "name": "Card 602",
+        "grade": 0,
+        "level": 6,
+        "hp": 6,
+        "attack": 12
+    }
+]
